@@ -734,7 +734,7 @@ void UserGuideline()
     printf(" -> Course code can be maximum 10 characters long.\n");
     printf(" -> Course Name can be maximum 20 characters long.\n\n");
 
-    printf(" ->> visit www.insideTheDiv.com for more project like this. <<-\n\n");
+    printf(" ->> Project developed for UNIVERSITY OF MYSORE <<-\n\n");
 }
 
 void AboutUs()
@@ -746,7 +746,7 @@ void AboutUs()
     printf(" -> You can modify the source code.\n");
     printf(" -> You can use this project only for personal purpose not for business.\n\n");
 
-    printf(" ->> visit www.insideTheDiv.com for more project like this. <<-\n\n");
+    printf(" ->> Project developed for UNIVERSITY OF MYSORE <<-\n\n");
 }
 
 void GoBackOrExit()
